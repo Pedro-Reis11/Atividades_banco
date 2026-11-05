@@ -18,6 +18,8 @@ Repositório com as resoluções das atividades da disciplina de **Banco de Dado
 | [10.md](10.md) | Agregações, `DISTINCT` e subqueries | 20 questões com `COUNT`, `SUM`, `AVG`, `MAX`, `MIN` e subconsultas |
 | [11.md](11.md) | `JOIN` | `INNER`, `LEFT` e `RIGHT JOIN` em 6 exercícios, com os bancos Empresa, Padaria, Agência, Farmácia e Clínica |
 | [12.md](12.md) | `GROUP BY` e `HAVING` | 20 consultas com agrupamentos e filtros de grupo |
+| [13.md](13.md) | Funções, `LIKE`, `CASE` e datas | 20 questões com cálculos, `CONCAT_WS()`, `DATE_ADD()`, `LIKE` com `ESCAPE`, funções de texto e número, `CASE`, `COALESCE` e `DATE_FORMAT()` |
+| [14.md](14.md) | DDL | 21 questões com `ALTER TABLE`, `ADD`/`MODIFY`/`DROP COLUMN`, `CHECK`, `UNIQUE`, chaves primária e estrangeira, índices e `RENAME TABLE` |
 
 ## Como usar
 
